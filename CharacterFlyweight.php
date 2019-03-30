@@ -1,7 +1,5 @@
 <?php
 
-namespace Flyweight;
-
 /**
  * Implements the flyweight interface and adds storage for intrinsic state, if any.
  * Instances of concrete flyweights are shared by means of a factory.
